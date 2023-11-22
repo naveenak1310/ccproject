@@ -1,0 +1,38 @@
+
+.p
+{
+  text-align: center;
+}
+.ok
+{
+  
+  width: 15vw;
+  height: 4vh;
+  background-color:rgb(8, 110, 244);
+  border: 4px;
+  border-radius: 5px;
+
+}
+h4{
+  text-align: center;
+}
+body
+{
+ background-color: rgb(0, 85, 255);
+}
+form
+{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.oi
+{
+  background-color: rgb(231, 172, 172);
+  height: 60vh;
+  width: 25vw;
+  margin-left: 37%;
+  margin-top: 10%;
+  border: 5px;
+  border-radius: 10px;          
+}
